@@ -109,10 +109,6 @@ class AIEngineer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&langs_count=8&theme=github_dark"/>
-
 </div>
 
 <div align="center">

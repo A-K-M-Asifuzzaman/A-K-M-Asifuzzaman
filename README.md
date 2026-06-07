@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/your-A-K-M-Asifuzzaman)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/A-K-M-Asifuzzaman)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
@@ -109,20 +109,20 @@ class AIEngineer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?A-K-M-Asifuzzaman=your-A-K-M-Asifuzzaman&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?A-K-M-Asifuzzaman=your-A-K-M-Asifuzzaman&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-A-K-M-Asifuzzaman&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-K-M-Asifuzzaman&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="Streak Stats"/>
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?A-K-M-Asifuzzaman=your-A-K-M-Asifuzzaman&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&border_color=30363d&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-K-M-Asifuzzaman&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&border_color=30363d&hide_border=false)
 
 </div>
 
@@ -228,15 +228,15 @@ MLOps & Deployment        ████████████░░░░░░
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-A-K-M-Asifuzzaman/your-A-K-M-Asifuzzaman/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-A-K-M-Asifuzzaman/your-A-K-M-Asifuzzaman/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/your-A-K-M-Asifuzzaman/your-A-K-M-Asifuzzaman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/A-K-M-Asifuzzaman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/A-K-M-Asifuzzaman/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/A-K-M-Asifuzzaman/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?A-K-M-Asifuzzaman=your-A-K-M-Asifuzzaman&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-A-K-M-Asifuzzaman?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=A-K-M-Asifuzzaman&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/A-K-M-Asifuzzaman?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
 
 <br/>
 

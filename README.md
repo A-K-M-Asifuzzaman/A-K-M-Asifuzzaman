@@ -61,6 +61,8 @@ class AIEngineer:
 
 ---
 
+## 🧰 Tech Stack
+
 <div align="center">
 
 **⬡ LLM · RAG · Agents**

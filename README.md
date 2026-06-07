@@ -229,18 +229,18 @@ MLOps & Deployment        ████████████░░░░░░
 <!-- SNAKE GRAPH (FIXED SAFE VERSION) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/A-K-M-Asifuzzaman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/A-K-M-Asifuzzaman/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/A-K-M-Asifuzzaman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 <br/><br/>
 
 <!-- BADGES -->
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=A-K-M-Asifuzzaman&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=58a6ff&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/A-K-M-Asifuzzaman?style=for-the-badge&color=58a6ff&label=FOLLOWERS" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-1f6feb?style=for-the-badge" />
 

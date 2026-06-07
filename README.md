@@ -109,20 +109,21 @@ class AIEngineer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asifzaman&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifzaman&layout=compact&langs_count=8&theme=github_dark"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-K-M-Asifuzzaman&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifzaman&theme=github-dark-blue"/>
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-K-M-Asifuzzaman&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&border_color=30363d&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asifzaman&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true)
 
 </div>
 

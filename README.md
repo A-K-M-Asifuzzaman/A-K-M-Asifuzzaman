@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
+<!-- ===================== HEADER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=A.K.M.%20Asifuzzaman&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/A-K-M-Asifuzzaman">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Explainable+AI+%7C+XAI+Practitioner;LLM+Engineering+%7C+RAG+%7C+Agents;Deep+Learning+%26+Neural+Networks;NLP+%7C+Transformers+%7C+Fine-Tuning;Full-Stack+AI+Application+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Explainable+AI+%7C+XAI+Practitioner;LLM+Engineering+%7C+RAG+%7C+Agents;Deep+Learning+%26+Neural+Networks;NLP+%7C+Transformers+%7C+Fine-Tuning;Full-Stack+AI+Application+Builder" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,11 +16,21 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zasif855@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://asif-zaman.netlify.app)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=A-K-M-Asifuzzaman&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/A-K-M-Asifuzzaman?style=for-the-badge&color=58a6ff&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-1f6feb?style=for-the-badge" />
+
 </div>
 
 ---
 
 ## ⚡ About Me
+
+I'm an **AI / Machine Learning Engineer** focused on building systems that are not only accurate, but **interpretable and trustworthy**. My work centers on Explainable AI, LLM engineering (RAG, fine-tuning, agents), deep learning, and shipping models inside real, full-stack applications.
 
 ```python
 class AIEngineer:
@@ -32,12 +42,12 @@ class AIEngineer:
                              "Designing interpretable ML systems"]
         self.learning     = ["Agentic AI Systems", "Multimodal Models", "RLHF"]
         self.tools        = {
-            "xai"     : ["SHAP", "LIME", "GradCAM", "Integrated Gradients", "Anchors"],
-            "llm"     : ["LangChain", "LlamaIndex", "QLoRA", "LoRA", "vLLM"],
-            "dl"      : ["PyTorch", "Keras", "HuggingFace Transformers"],
-            "ml"      : ["scikit-learn", "XGBoost", "LightGBM", "Optuna"],
-            "nlp"     : ["spaCy", "NLTK", "Transformers", "SentenceTransformers"],
-            "web"     : ["React", "Node.js", "FastAPI", "MongoDB"],
+            "xai" : ["SHAP", "LIME", "GradCAM", "Integrated Gradients", "Anchors"],
+            "llm" : ["LangChain", "LlamaIndex", "QLoRA", "LoRA", "vLLM"],
+            "dl"  : ["PyTorch", "Keras", "HuggingFace Transformers"],
+            "ml"  : ["scikit-learn", "XGBoost", "LightGBM", "Optuna"],
+            "nlp" : ["spaCy", "NLTK", "Transformers", "SentenceTransformers"],
+            "web" : ["React", "Node.js", "FastAPI", "MongoDB"],
         }
 
     def philosophy(self):
@@ -76,8 +86,6 @@ class AIEngineer:
 ![Ollama](https://img.shields.io/badge/Ollama-37474F?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
 **⬡ ML · DL · XAI**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -88,15 +96,11 @@ class AIEngineer:
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge)
 ![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge)
 
----
-
 **⬡ Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1744?style=for-the-badge)
 ![Albumentations](https://img.shields.io/badge/Albumentations-1E88E5?style=for-the-badge)
-
----
 
 **⬡ Data · Notebooks**
 
@@ -105,8 +109,6 @@ class AIEngineer:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
----
-
 **⬡ Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -114,8 +116,6 @@ class AIEngineer:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
 
 **⬡ Frontend · Backend · Infra**
 
@@ -138,17 +138,21 @@ class AIEngineer:
 
 <div align="center">
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&bg_color=0d1117" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-K-M-Asifuzzaman&theme=github-dark-blue"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-K-M-Asifuzzaman&theme=github-dark-blue&hide_border=true" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=A-K-M-Asifuzzaman&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-K-M-Asifuzzaman&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true)
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-K-M-Asifuzzaman&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
 
 </div>
 
@@ -176,7 +180,7 @@ class AIEngineer:
 
 ---
 
-## 🔬 Focus Areas & Projects
+## 🔬 Focus Areas
 
 ```
 📂 AI Engineering
@@ -206,6 +210,8 @@ class AIEngineer:
 
 > *"A model that cannot explain itself cannot be trusted."*
 
+</div>
+
 | Method | Type | Use Case |
 |:---|:---:|:---|
 | **SHAP** (SHapley Additive exPlanations) | Global + Local | Feature importance for any model |
@@ -215,8 +221,6 @@ class AIEngineer:
 | **Anchor Explanations** | Rule-based | High-precision local rules |
 | **Partial Dependence Plots** | Global | Feature effect visualization |
 | **Counterfactual Explanations** | Contrastive | "What-if" analysis |
-
-</div>
 
 ---
 
@@ -240,7 +244,8 @@ MLOps & Deployment        ████████████░░░░░░
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/)
-[![Gmail](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zasif855@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://asif-zaman.netlify.app)
 
 <br/>
 
@@ -251,19 +256,6 @@ MLOps & Deployment        ████████████░░░░░░
 ---
 
 <div align="center">
-
-
-<!-- BADGES -->
-
-<img src="https://komarev.com/ghpvc/?username=A-K-M-Asifuzzaman&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/A-K-M-Asifuzzaman?style=for-the-badge&color=58a6ff&label=FOLLOWERS" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-1f6feb?style=for-the-badge" />
-
-<br/><br/>
-
-<!-- FOOTER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f1f3a,100:16213e&height=140&section=footer&text=ML%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20CV%20%7C%20XAI&fontSize=14&fontColor=58a6ff&fontAlignY=70" />
 

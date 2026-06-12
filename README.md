@@ -1,262 +1,210 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=A.K.M.%20Asifuzzaman&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn" />
-
-<!-- Typing SVG -->
-<a href="https://github.com/A-K-M-Asifuzzaman">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Explainable+AI+%7C+XAI+Practitioner;LLM+Engineering+%7C+RAG+%7C+Agents;Deep+Learning+%26+Neural+Networks;NLP+%7C+Transformers+%7C+Fine-Tuning;Full-Stack+AI+Application+Builder" alt="Typing SVG" />
-</a>
+<!-- ============ HEADER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4" />
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/A-K-M-Asifuzzaman)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zasif855@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://asif-zaman.netlify.app)
+# A.K.M. Asifuzzaman
+
+### `AI / Machine Learning Engineer`
+
+<p>
+<em>Building interpretable, production-grade intelligence — models that don't just predict, but explain.</em>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=30&lines=Explainable+AI+(XAI)++%E2%80%94++SHAP+%C2%B7+LIME+%C2%B7+GradCAM;LLM+Engineering++%E2%80%94++RAG+%C2%B7+QLoRA+%C2%B7+Agents;Deep+Learning++%E2%80%94++PyTorch+%C2%B7+Transformers;NLP++%E2%80%94++Fine-Tuning+%C2%B7+NER+%C2%B7+QA" alt="focus areas" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
+<a href="https://github.com/A-K-M-Asifuzzaman"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
+<a href="mailto:zasif855@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
+<a href="https://asif-zaman.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=A-K-M-Asifuzzaman&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/A-K-M-Asifuzzaman?style=for-the-badge&color=58a6ff&label=FOLLOWERS" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-1f6feb?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=A-K-M-Asifuzzaman&label=Profile%20views&color=1f6feb&style=flat-square" />
+<img src="https://img.shields.io/github/followers/A-K-M-Asifuzzaman?style=flat-square&color=1f6feb&label=Followers&labelColor=0d1117" />
 
 </div>
 
----
+<br/>
 
-## ⚡ About Me
+<!-- ============ ABOUT ============ -->
+## About
 
-I'm an **AI / Machine Learning Engineer** focused on building systems that are not only accurate, but **interpretable and trustworthy**. My work centers on Explainable AI, LLM engineering (RAG, fine-tuning, agents), deep learning, and shipping models inside real, full-stack applications.
+AI / ML Engineer specializing in **Explainable AI** and **LLM systems**. I design models that are accurate, interpretable, and deployable — and I ship them inside real, full-stack applications. Current focus: RAG pipelines, QLoRA fine-tuning, and agentic AI.
 
 ```python
-class AIEngineer:
-    def __init__(self):
-        self.name         = "A.K.M. Asifuzzaman"
-        self.role         = "AI / ML Engineer"
-        self.specialties  = ["Explainable AI (XAI)", "LLM Engineering", "Deep Learning", "NLP"]
-        self.current_work = ["Building RAG pipelines", "Fine-tuning LLMs with QLoRA",
-                             "Designing interpretable ML systems"]
-        self.learning     = ["Agentic AI Systems", "Multimodal Models", "RLHF"]
-        self.tools        = {
-            "xai" : ["SHAP", "LIME", "GradCAM", "Integrated Gradients", "Anchors"],
-            "llm" : ["LangChain", "LlamaIndex", "QLoRA", "LoRA", "vLLM"],
-            "dl"  : ["PyTorch", "Keras", "HuggingFace Transformers"],
-            "ml"  : ["scikit-learn", "XGBoost", "LightGBM", "Optuna"],
-            "nlp" : ["spaCy", "NLTK", "Transformers", "SentenceTransformers"],
-            "web" : ["React", "Node.js", "FastAPI", "MongoDB"],
-        }
-
-    def philosophy(self):
-        return "Models should not just predict — they should explain."
+profile = {
+    "role"        : "AI / ML Engineer",
+    "specialties" : ["Explainable AI", "LLM Engineering", "Deep Learning", "NLP"],
+    "building"    : ["RAG pipelines", "QLoRA fine-tuning", "Interpretable ML"],
+    "exploring"   : ["Agentic AI", "Multimodal Models", "RLHF"],
+    "principle"   : "A model that cannot explain itself cannot be trusted.",
+}
 ```
-
----
-
-## 🧠 Core Expertise
-
-<div align="center">
-
-| 🔍 Explainable AI | 🤖 LLM Engineering | 🧬 Deep Learning | 💬 NLP |
-|:---:|:---:|:---:|:---:|
-| SHAP · LIME · GradCAM | RAG · QLoRA · Agents | CNNs · RNNs · Transformers | BERT · GPT · spaCy |
-| Feature Attribution | Prompt Engineering | ResNet · EfficientNet | Sentiment · NER · QA |
-| Model Interpretability | Vector Databases | Transfer Learning | Fine-tuning · RLHF |
-| Counterfactuals | LangChain · LlamaIndex | Attention Mechanisms | Text Classification |
-
-</div>
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**⬡ LLM · RAG · Agents**
-
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B8BBE?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-2E7D32?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-6A1B9A?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-1565C0?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-37474F?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-
-**⬡ ML · DL · XAI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-8E24AA?style=for-the-badge)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge)
-
-**⬡ Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1744?style=for-the-badge)
-![Albumentations](https://img.shields.io/badge/Albumentations-1E88E5?style=for-the-badge)
-
-**⬡ Data · Notebooks**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-**⬡ Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**⬡ Frontend · Backend · Infra**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&bg_color=0d1117" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-K-M-Asifuzzaman&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=A-K-M-Asifuzzaman&theme=darkhub&no-frame=true&column=7&margin-w=8" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-K-M-Asifuzzaman&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| 🎖️ Certificate | 🏛️ Issuer | 📅 Year | 🔗 |
-|:---|:---:|:---:|:---:|
-| **Explainable AI (XAI)** | CampusX | 2025 | [Verify](https://i.ibb.co.com/7t1QMwSd/1779017167687-certificate.jpg) |
-| **AI Engineer Core: LLM, RAG, QLoRA, Agents** | Udemy | 2025 | [Verify](https://www.udemy.com/certificate/UC-09849cd1-e3e9-4c62-bcdb-ad918f4bddcc/) |
-| **Deep Learning: Beginner to Advanced** | Codebasics | Jan 2026 | [Verify](https://codebasics.io/certificate/CB-85-637081) |
-| **NLP with Python** | Udemy | 2025 | [Verify](https://www.udemy.com/certificate/UC-2682647d-e413-4fb1-8292-5bd0073647de/) |
-| **Deep Learning A-Z 2025** | Udemy | 2025 | [Verify](https://www.udemy.com/certificate/UC-538a5c2d-5b67-43aa-836e-1940a7e48860/) |
-| **A Deep Understanding of Deep Learning** | Udemy | 2025 | [Verify](https://www.udemy.com/certificate/UC-d544c779-689c-4225-971d-e0f72e7e760f/) |
-| **Machine Learning A-Z (AI, Python & R)** | Udemy | Apr 2025 | [Verify](https://www.udemy.com/certificate/UC-f9047cf4-17a5-4106-b3e3-53980b7425b0/) |
-| **Master Machine Learning for Data Science** | Codebasics | Jan 2025 | [Verify](https://codebasics.io/certificate/CB-69-567414) |
-| **Supervised ML: Regression & Classification** | DeepLearning.AI | Feb 2025 | [Verify](https://www.coursera.org/account/accomplishments/records/6PVZE4V07XM8) |
-| **Python for Data Science, AI & Development** | IBM | Feb 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/L668YC8B8JK3) |
-| **Complete Web Development** | Programming Hero | Jun 2024 | ✅ |
-
-</div>
-
----
-
-## 🔬 Focus Areas
-
-```
-📂 AI Engineering
-├── 🔍 Explainable AI          → SHAP, LIME, GradCAM, Integrated Gradients
-├── 🤖 LLM Applications        → RAG pipelines, QLoRA fine-tuning, AI Agents
-├── 💬 NLP Systems             → Text classification, NER, Question Answering
-├── 🧬 Computer Vision         → CNNs, Object Detection, Image Classification
-└── 📊 Classical ML            → Ensemble methods, Feature Engineering, AutoML
-
-📂 Data Science
-├── 📈 Predictive Modelling    → Regression, Classification, Time Series
-├── 🔎 Model Interpretability  → Black-box explanations, Feature attribution
-├── 🧹 Data Pipeline           → ETL, Feature stores, Data validation
-└── 📉 Statistical Analysis    → Hypothesis testing, A/B testing
-
-📂 Full-Stack AI Apps
-├── ⚙️  Backend                → FastAPI, Node.js, REST APIs
-├── 🎨 Frontend                → React, Tailwind CSS, Vite
-└── 🐳 DevOps                  → Docker, GitHub Actions, Cloud deployment
-```
-
----
-
-## 🌐 XAI Toolbox
-
-<div align="center">
-
-> *"A model that cannot explain itself cannot be trusted."*
-
-</div>
-
-| Method | Type | Use Case |
-|:---|:---:|:---|
-| **SHAP** (SHapley Additive exPlanations) | Global + Local | Feature importance for any model |
-| **LIME** (Local Interpretable Model-agnostic) | Local | Instance-level explanations |
-| **GradCAM** | Visual | CNN decision visualization |
-| **Integrated Gradients** | Gradient-based | Deep learning attribution |
-| **Anchor Explanations** | Rule-based | High-precision local rules |
-| **Partial Dependence Plots** | Global | Feature effect visualization |
-| **Counterfactual Explanations** | Contrastive | "What-if" analysis |
-
----
-
-## 📈 Skill Radar
-
-```
-Machine Learning          ████████████████████  Expert
-Deep Learning             ███████████████████░  Advanced
-Explainable AI (XAI)      ██████████████████░░  Advanced
-NLP / Transformers        █████████████████░░░  Advanced
-LLM Engineering & RAG     ████████████████░░░░  Proficient
-Computer Vision           ████████████████░░░░  Proficient
-Full-Stack Development    ██████████████░░░░░░  Intermediate
-MLOps & Deployment        ████████████░░░░░░░░  Intermediate
-```
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/)
-[![Gmail](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zasif855@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://asif-zaman.netlify.app)
 
 <br/>
 
-*Open to research collaborations, AI/ML projects, and internship opportunities.*
+<!-- ============ EXPERTISE ============ -->
+## Core Expertise
 
-</div>
+| &nbsp; | &nbsp; |
+|:---|:---|
+| **Explainable AI** | SHAP · LIME · GradCAM · Integrated Gradients · Anchors · Counterfactuals |
+| **LLM Engineering** | RAG · QLoRA / LoRA · Agents · Prompt Engineering · Vector Databases |
+| **Deep Learning** | CNNs · RNNs · Transformers · ResNet · EfficientNet · Attention |
+| **NLP** | BERT · GPT · NER · Question Answering · Sentiment · Text Classification |
+| **Classical ML** | XGBoost · LightGBM · Ensembles · Feature Engineering · AutoML |
+| **Full-Stack** | FastAPI · React · Node.js · Docker · CI/CD |
 
----
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+## Tech Stack
+
+**LLM · RAG · Agents**
+
+![HuggingFace](https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0d1117)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=0d1117)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![vLLM](https://img.shields.io/badge/vLLM-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white&labelColor=0d1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117)
+
+**ML · DL · XAI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=D00000&labelColor=0d1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117)
+![SHAP](https://img.shields.io/badge/SHAP-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![ONNX](https://img.shields.io/badge/ONNX-0d1117?style=flat-square&logo=onnx&logoColor=white&labelColor=0d1117)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-0d1117?style=flat-square&logo=weightsandbiases&logoColor=FFBE00&labelColor=0d1117)
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8&labelColor=0d1117)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+![Albumentations](https://img.shields.io/badge/Albumentations-0d1117?style=flat-square&logoColor=white&labelColor=0d1117)
+
+**Data · Notebooks**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF&labelColor=0d1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626&labelColor=0d1117)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=white&labelColor=0d1117)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=0d1117)
+
+**Frontend · Backend · Infra**
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0d1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0d1117)
+
+<br/>
+
+<!-- ============ STATS ============ -->
+## GitHub Activity
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f1f3a,100:16213e&height=140&section=footer&text=ML%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20CV%20%7C%20XAI&fontSize=14&fontColor=58a6ff&fontAlignY=70" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&langs_count=8" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=A-K-M-Asifuzzaman&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-K-M-Asifuzzaman&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
+
+</div>
+
+<br/>
+
+<!-- ============ CERTIFICATIONS ============ -->
+## Certifications
+
+| Certificate | Issuer | Year | |
+|:---|:---|:---:|:---:|
+| Explainable AI (XAI) | CampusX | 2025 | [↗](https://i.ibb.co.com/7t1QMwSd/1779017167687-certificate.jpg) |
+| AI Engineer Core: LLM, RAG, QLoRA, Agents | Udemy | 2025 | [↗](https://www.udemy.com/certificate/UC-09849cd1-e3e9-4c62-bcdb-ad918f4bddcc/) |
+| Deep Learning: Beginner to Advanced | Codebasics | Jan 2026 | [↗](https://codebasics.io/certificate/CB-85-637081) |
+| NLP with Python | Udemy | 2025 | [↗](https://www.udemy.com/certificate/UC-2682647d-e413-4fb1-8292-5bd0073647de/) |
+| Deep Learning A-Z 2025 | Udemy | 2025 | [↗](https://www.udemy.com/certificate/UC-538a5c2d-5b67-43aa-836e-1940a7e48860/) |
+| A Deep Understanding of Deep Learning | Udemy | 2025 | [↗](https://www.udemy.com/certificate/UC-d544c779-689c-4225-971d-e0f72e7e760f/) |
+| Machine Learning A-Z (AI, Python & R) | Udemy | Apr 2025 | [↗](https://www.udemy.com/certificate/UC-f9047cf4-17a5-4106-b3e3-53980b7425b0/) |
+| Master Machine Learning for Data Science | Codebasics | Jan 2025 | [↗](https://codebasics.io/certificate/CB-69-567414) |
+| Supervised ML: Regression & Classification | DeepLearning.AI | Feb 2025 | [↗](https://www.coursera.org/account/accomplishments/records/6PVZE4V07XM8) |
+| Python for Data Science, AI & Development | IBM | Feb 2025 | [↗](https://www.coursera.org/account/accomplishments/verify/L668YC8B8JK3) |
+| Complete Web Development | Programming Hero | Jun 2024 | — |
+
+<br/>
+
+<!-- ============ XAI TOOLBOX ============ -->
+## XAI Toolbox
+
+| Method | Scope | Use Case |
+|:---|:---|:---|
+| **SHAP** | Global + Local | Feature importance for any model |
+| **LIME** | Local | Instance-level explanations |
+| **GradCAM** | Visual | CNN decision visualization |
+| **Integrated Gradients** | Gradient-based | Deep learning attribution |
+| **Anchors** | Rule-based | High-precision local rules |
+| **Partial Dependence** | Global | Feature effect visualization |
+| **Counterfactuals** | Contrastive | "What-if" analysis |
+
+<br/>
+
+<!-- ============ PROFICIENCY ============ -->
+## Proficiency
+
+```text
+Machine Learning          ███████████████████░   Expert
+Deep Learning             ██████████████████░░   Advanced
+Explainable AI (XAI)      █████████████████░░░   Advanced
+NLP / Transformers        █████████████████░░░   Advanced
+LLM Engineering & RAG     ████████████████░░░░   Proficient
+Computer Vision           ████████████████░░░░   Proficient
+Full-Stack Development    ██████████████░░░░░░   Intermediate
+MLOps & Deployment        ████████████░░░░░░░░   Intermediate
+```
+
+<br/>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+
+<br/>
+
+**Open to research collaborations, AI / ML projects, and internships.**
+
+<a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/"><img src="https://img.shields.io/badge/Let's_connect-1f6feb?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
+<a href="mailto:zasif855@gmail.com"><img src="https://img.shields.io/badge/Email_me-21262d?style=flat-square&logo=gmail&logoColor=white" height="26"/></a>
+<a href="https://asif-zaman.netlify.app"><img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=firefoxbrowser&logoColor=white" height="26"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2" />
 
 </div>

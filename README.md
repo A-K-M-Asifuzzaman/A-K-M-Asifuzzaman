@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
 <a href="https://github.com/A-K-M-Asifuzzaman"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
 <a href="mailto:zasif855@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
-<a href="https://asif-zaman.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
+<a href="https://www.asifzaman.online/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=58a6ff&labelColor=0d1117" height="28"/></a>
 
 <br/>
 
@@ -201,7 +201,7 @@ MLOps & Deployment        ████████████░░░░░░
 
 <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/"><img src="https://img.shields.io/badge/Let's_connect-1f6feb?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
 <a href="mailto:zasif855@gmail.com"><img src="https://img.shields.io/badge/Email_me-21262d?style=flat-square&logo=gmail&logoColor=white" height="26"/></a>
-<a href="https://asif-zaman.netlify.app"><img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=firefoxbrowser&logoColor=white" height="26"/></a>
+<a href="https://www.asifzaman.online/"><img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=firefoxbrowser&logoColor=white" height="26"/></a>
 
 <br/><br/>
 

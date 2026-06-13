@@ -157,7 +157,7 @@ profile = {
 | Master Machine Learning for Data Science | Codebasics | Jan 2025 | [↗](https://codebasics.io/certificate/CB-69-567414) |
 | Supervised ML: Regression & Classification | DeepLearning.AI | Feb 2025 | [↗](https://www.coursera.org/account/accomplishments/records/6PVZE4V07XM8) |
 | Python for Data Science, AI & Development | IBM | Feb 2025 | [↗](https://www.coursera.org/account/accomplishments/verify/L668YC8B8JK3) |
-| Complete Web Development | Programming Hero | Jun 2024 | — |
+| Complete Web Development | Programming Hero | Jun 2024 | [↗](https://i.ibb.co.com/4R7kz8Jx/certificate-student.png) |
 
 <br/>
 

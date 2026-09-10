@@ -84,7 +84,7 @@ asif = {
 <div align="center">
 
 <a href="https://www.trinolit.com/">
-  <img src="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/Startup-Website/main/public/email-logo.png" alt="TrinolIT logo" width="220" />
+  <img src="https://www.trinolit.com/email-logo.png" alt="TrinolIT logo" width="220" />
 </a>
 
 ### [Visit TrinolIT →](https://www.trinolit.com/)
@@ -550,7 +550,7 @@ My long-term areas of interest include:
 <div align="center">
 
 <a href="https://www.trinolit.com/">
-  <img src="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/Startup-Website/main/public/email-logo.png" alt="TrinolIT" width="150" />
+  <img src="https://www.trinolit.com/email-logo.png" alt="TrinolIT" width="150" />
 </a>
 
 <br/><br/>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.trinolit.com/">
-  <img src="[https://raw.githubusercontent.com/A-K-M-Asifuzzaman/Startup-Website/main/public/email-logo.png](https://www.trinolit.com/email-logo.png)" alt="TrinolIT" width="190" />
+  <img src="https://www.trinolit.com/email-logo.png" alt="TrinolIT" width="190" />
 </a>
 
 <br/>

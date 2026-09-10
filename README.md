@@ -7,13 +7,13 @@
 
 # A.K.M. Asifuzzaman
 
-### `AI / Machine Learning Engineer`
+### `Founder, TrinolIT · AI / Machine Learning Engineer`
 
 <p>
-<em>Building interpretable, production-grade intelligence — models that don't just predict, but explain.</em>
+<em>Building evidence-driven AI systems, production software, and research that can be measured, explained, and trusted.</em>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=30&lines=Explainable+AI+(XAI)++%E2%80%94++SHAP+%C2%B7+LIME+%C2%B7+GradCAM;LLM+Engineering++%E2%80%94++RAG+%C2%B7+QLoRA+%C2%B7+Agents;Deep+Learning++%E2%80%94++PyTorch+%C2%B7+Transformers;NLP++%E2%80%94++Fine-Tuning+%C2%B7+NER+%C2%B7+QA" alt="focus areas" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=30&lines=Founder+%40+TrinolIT++%E2%80%94++Software+%C2%B7+AI+%C2%B7+Systems;AI+Engineering++%E2%80%94++RAG+%C2%B7+Agents+%C2%B7+Multimodal;Machine+Learning++%E2%80%94++Models+%C2%B7+XAI+%C2%B7+Evaluation;Research++%E2%80%94++Low-Resource+NLP+%C2%B7+Grounded+AI" alt="focus areas" />
 
 <br/><br/>
 
@@ -34,15 +34,15 @@
 <!-- ============ ABOUT ============ -->
 ## About
 
-AI / ML Engineer specializing in **Explainable AI** and **LLM systems**. I design models that are accurate, interpretable, and deployable — and I ship them inside real, full-stack applications. Current focus: RAG pipelines, QLoRA fine-tuning, and agentic AI.
+Founder of **TrinolIT** and an **AI / ML Engineer** building evidence-driven AI systems and production software. My work spans model development, RAG and agentic systems, computer vision, explainable AI, low-resource NLP, and full-stack/backend engineering. I focus on systems that are not only capable, but also measurable, grounded, secure, and deployable.
 
 ```python
 profile = {
-    "role"        : "AI / ML Engineer",
-    "specialties" : ["Explainable AI", "LLM Engineering", "Deep Learning", "NLP"],
-    "building"    : ["RAG pipelines", "QLoRA fine-tuning", "Interpretable ML"],
-    "exploring"   : ["Agentic AI", "Multimodal Models", "RLHF"],
-    "principle"   : "A model that cannot explain itself cannot be trusted.",
+    "role"        : "Founder, TrinolIT · AI / ML Engineer",
+    "focus"       : ["AI Systems", "Machine Learning", "Production Software"],
+    "specialties" : ["RAG & Agents", "Explainable AI", "Computer Vision", "NLP"],
+    "building"    : ["TrinolIT products", "Grounded AI systems", "Research prototypes"],
+    "principle"   : "Build systems that can be measured, explained, and trusted.",
 }
 ```
 
@@ -58,7 +58,8 @@ profile = {
 | **Deep Learning** | CNNs · RNNs · Transformers · ResNet · EfficientNet · Attention |
 | **NLP** | BERT · GPT · NER · Question Answering · Sentiment · Text Classification |
 | **Classical ML** | XGBoost · LightGBM · Ensembles · Feature Engineering · AutoML |
-| **Full-Stack** | FastAPI · React · Node.js · Docker · CI/CD |
+| **Backend & Systems** | FastAPI · PostgreSQL · Redis · Auth · RBAC · Multi-tenancy · APIs |
+| **Full-Stack** | Next.js · React · Node.js · Docker · CI/CD |
 
 <br/>
 
@@ -180,13 +181,13 @@ profile = {
 ## Proficiency
 
 ```text
-Machine Learning          ███████████████████░   Expert
+Machine Learning          ███████████████████░   Advanced
 Deep Learning             ██████████████████░░   Advanced
 Explainable AI (XAI)      █████████████████░░░   Advanced
 NLP / Transformers        █████████████████░░░   Advanced
 LLM Engineering & RAG     ████████████████░░░░   Proficient
 Computer Vision           ████████████████░░░░   Proficient
-Full-Stack Development    ██████████████░░░░░░   Intermediate
+Full-Stack Development    ████████████████░░░░   Proficient
 MLOps & Deployment        ████████████░░░░░░░░   Intermediate
 ```
 
@@ -197,7 +198,7 @@ MLOps & Deployment        ████████████░░░░░░
 
 <br/>
 
-**Open to research collaborations, AI / ML projects, and internships.**
+**Founder of TrinolIT · Open to AI / ML engineering opportunities, research collaborations, and high-impact software projects.**
 
 <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/"><img src="https://img.shields.io/badge/Let's_connect-1f6feb?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
 <a href="mailto:zasif855@gmail.com"><img src="https://img.shields.io/badge/Email_me-21262d?style=flat-square&logo=gmail&logoColor=white" height="26"/></a>

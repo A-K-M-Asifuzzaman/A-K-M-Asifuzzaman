@@ -374,12 +374,15 @@ As the founder of **[TrinolIT](https://www.trinolit.com/)**, I work across produ
 | **Product engineering** | TypeScript · React · Next.js · Flutter · Tailwind CSS · Firebase · UX engineering |
 | **Shipping & reliability** | Docker · GitHub Actions · Linux · CI / tests · telemetry · authentication / RBAC · observability |
 
-<details>
-<summary><b>Optional: GitHub activity visualizations</b></summary>
+<details open>
+<summary><b>GitHub portfolio snapshot and engineering languages</b></summary>
 
-<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="GitHub language distribution"/></p>
+<p align="center">
+  <img width="49%" src="./assets/github-footprint.svg" alt="Portfolio snapshot: 124 public repositories across 10 categories and 18 featured builds" />
+  <img width="49%" src="./assets/language-stack.svg" alt="Representative languages across projects: Python, TypeScript, JavaScript, SQL, Dart and C++" />
+</p>
 
-<sub>Third-party stat-card services may occasionally be rate limited. My repositories and their reproducible artifacts remain the authoritative record of work.</sub>
+<sub>Self-hosted graphics, not third-party live stat cards. Repository counts reflect the November 2026 catalog; language badges describe the stack, not percentage of code written. For live contributions, see my <a href="https://github.com/A-K-M-Asifuzzaman">GitHub profile</a>.</sub>
 
 </details>
 

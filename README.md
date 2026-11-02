@@ -1,459 +1,400 @@
 <div align="center">
 
-<a href="https://www.trinolit.com/">
-  <img src="https://www.trinolit.com/email-logo.png" alt="TrinolIT" width="190" />
-</a>
+![A.K.M. Asifuzzaman — AI systems, research and product engineering](./assets/profile-hero.svg)
 
-<br/>
+## A.K.M. Asifuzzaman
 
-# A.K.M. Asifuzzaman
+### Founder, [TrinolIT](https://www.trinolit.com/) &nbsp; · &nbsp; AI/ML Engineer &nbsp; · &nbsp; Full-Stack Developer &nbsp; · &nbsp; AI Researcher
 
-### Founder, [TrinolIT](https://www.trinolit.com/) · AI / Machine Learning Engineer
+**I engineer AI systems from first principles, evaluate them against reality, and ship interfaces people can actually use.**
 
-**Production AI · RAG & Agents · Machine Learning · Backend Systems · Applied Research**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-asifzaman.dev-112d3c?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://asifzaman.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/)
+[![Email](https://img.shields.io/badge/EMAIL-Get_in_touch-17616c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asif@asifzaman.dev)
+[![TrinolIT](https://img.shields.io/badge/TRINOLIT-Company-21344f?style=for-the-badge)](https://www.trinolit.com/)
 
-<em>I build AI systems and software products that are measurable, grounded, explainable, secure, and deployable.</em>
-
-<br/>
-
-<a href="https://www.trinolit.com/">
-  <img src="https://img.shields.io/badge/TrinolIT-Founder-0D1117?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.asifzaman.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-asifzaman.dev-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/A-K-M-Asifuzzaman">
-  <img src="https://img.shields.io/github/followers/A-K-M-Asifuzzaman?style=flat-square&label=Followers&labelColor=0D1117" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=A-K-M-Asifuzzaman&label=Profile%20Views&style=flat-square" />
+<sub>Chattogram, Bangladesh &nbsp; | &nbsp; East Delta University, BSc in CSE (in progress) &nbsp; | &nbsp; Applied AI + research-minded software engineering</sub>
 
 </div>
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="25%" align="center"><b>19.47M</b><br/><sub>Parameters · scratch-trained transformer</sub></td>
+<td width="25%" align="center"><b>97.16%</b><br/><sub>Food-101 · held-out top-1 accuracy</sub></td>
+<td width="25%" align="center"><b>20,000</b><br/><sub>InsightVLM · synthetic labeled charts</sub></td>
+<td width="25%" align="center"><b>13</b><br/><sub>Specialized agents · OmniMind</sub></td>
+</tr>
+</table>
+
+<sub>These metrics refer to **different projects, datasets and evaluation protocols**, not a combined leaderboard. Follow each linked repository for methodology and limitations.</sub>
+
+## 00 / Navigation console
+
+[**About**](#01--about-the-builder) &nbsp; • &nbsp; [**Research**](#02--research-frontier) &nbsp; • &nbsp; [**Flagships**](#03--featured-builds) &nbsp; • &nbsp; [**Engineering**](#04--systems-thinking) &nbsp; • &nbsp; [**All 124 repositories**](#05--complete-public-project-atlas) &nbsp; • &nbsp; [**Skills**](#06--technical-arsenal) &nbsp; • &nbsp; [**Credentials**](#07--education-and-credentials) &nbsp; • &nbsp; [**Contact**](#08--work-with-me)
+
+## 01 / About the builder
+
+I'm **A.K.M. Asifuzzaman** (Asif Zaman), founder of **[TrinolIT](https://www.trinolit.com/)** and a Computer Science & Engineering undergraduate at **East Delta University**. I work where machine learning, evidence-driven research, secure backend architecture and high-quality product engineering meet.
+
+I build across the full stack of intelligence: **dataset design → training → evaluation → retrieval / orchestration → APIs → deployment → user experience**. My interests center on **vision-language models, multimodal reasoning, uncertainty, trustworthy RAG and agentic systems**.
+
+> **My engineering standard:** No benchmark without a protocol. No generated claim without evidence. No "production-ready" badge without tests, security boundaries and a real deployment path.
+
+- **Research direction:** chart reasoning, graph robustness, vision-language evaluation, retrieval, provenance, explainability and calibration.
+- **Engineering direction:** PyTorch, FastAPI, PostgreSQL, multi-tenant SaaS, LangGraph, Qdrant, Neo4j, React / Next.js, Docker and observability.
+- **Current academic stage:** BSc in CSE in progress; **CGPA 3.79 / 4.00** (last reported September 2026).
+- **Open to:** research collaboration, AI/ML engineering roles, ambitious applied-AI work, and thesis-based graduate research.
+
+## 02 / Research frontier
+
+My current work focuses on **what models can reliably infer from visual and structured evidence**—and how to tell when the evidence does *not* support a conclusion.
+
+| Research track | Core question | Project |
+|---|---|---|
+| **Vision-language reasoning** | Can a model identify a statistically valid finding from a chart rather than merely describe it? | [InsightVLM](https://github.com/A-K-M-Asifuzzaman/InsightVLM) |
+| **Graph robustness** | Does graph-question answering preserve topology under redraws and recognize true edge edits? | [TopoDelta-QA](https://github.com/A-K-M-Asifuzzaman/Pattern-Recognition) |
+| **Scientific retrieval** | Can contrastive vision-language embeddings retrieve figures in a domain-shifted scientific corpus? | [RoboDesign Atlas](https://github.com/A-K-M-Asifuzzaman/RobotDesign1M) |
+| **Reliable prediction** | How do calibration, abstention and conformal sets change the trustworthiness of visual classification? | [FoodGenome AI](https://github.com/A-K-M-Asifuzzaman/Food) |
+| **Evidence-grounded generation** | Can an AI assistant prove which document span or audio segment supports each claim? | [DocFlow AI](https://github.com/A-K-M-Asifuzzaman/DocFlow-AI) · [Beacon AI](https://github.com/A-K-M-Asifuzzaman/BEACON-AI) |
+| **Low-resource AI** | What is achievable for Chittagonian when real annotated data is scarce? | [ChatgaiyyaLM](https://github.com/A-K-M-Asifuzzaman/Chatgaiya-AI) |
+
+**Research integrity note:** Project README claims are not automatically peer-reviewed results. InsightVLM includes research drafts; TopoDelta-QA is an experimental benchmark-development effort with no human validation or established model-efficacy result. No publication claim is implied here.
+
+## 03 / Featured builds
+
+### Research + engineering, side by side
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/A-K-M-Asifuzzaman/InsightVLM"><img src="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/InsightVLM/main/docs/assets/demo.png" alt="InsightVLM chart insight research demo" width="100%"/></a>
+<h3>InsightVLM</h3>
+<p><b>Vision-language research · statistical reasoning</b></p>
+<p>20,000 charts; 26 chart types; 20 statistical findings. Labels are grounded in tests on the underlying plotted data, with additional real-data charts and cross-renderer evaluation.</p>
+<p><a href="https://github.com/A-K-M-Asifuzzaman/InsightVLM">Code & methodology</a> · <a href="https://huggingface.co/spaces/AsifZaman1912/InsightVLM">Interactive demo</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/A-K-M-Asifuzzaman/Food"><img src="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/Food/main/docs/images/analyze-result.png" alt="FoodGenome AI uncertainty-aware food analysis interface" width="100%"/></a>
+<h3>FoodGenome AI</h3>
+<p><b>Computer vision · conformal prediction · grounded nutrition</b></p>
+<p><b>97.16%</b> Food-101 test top-1; <b>99.56%</b> measured conformal coverage with average candidate set 1.54; evidence-linked nutrition and RAG.</p>
+<p><a href="https://github.com/A-K-M-Asifuzzaman/Food">Code & evaluation</a> · <a href="https://food-red-omega.vercel.app">Live app</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/A-K-M-Asifuzzaman/DocFlow-AI"><img src="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/DocFlow-AI/main/docs/images/viewer-citation.png" alt="DocFlow AI highlighted source span and extracted deadline" width="100%"/></a>
+<h3>DocFlow AI</h3>
+<p><b>Document intelligence · auditability · multi-tenancy</b></p>
+<p>Turns documents into deadlines and tasks using a strict chain of <code>document → page → span → bounding box → fact → task</code>. Facts without matching source evidence are not promoted to confirmed actions.</p>
+<p><a href="https://github.com/A-K-M-Asifuzzaman/DocFlow-AI">Architecture & tests</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/A-K-M-Asifuzzaman/BEACON-AI"><img src="https://raw.githubusercontent.com/A-K-M-Asifuzzaman/BEACON-AI/main/assets/screenshots/02-session-summary.png" alt="Beacon AI attributed transcript and summary interface" width="100%"/></a>
+<h3>Beacon AI</h3>
+<p><b>Audio intelligence · provenance-first UX</b></p>
+<p>Lecture and meeting summaries with clickable timecodes, speaker-aware sessions, evidence-based action items and claim labels: <code>supported / partial / unsupported</code>.</p>
+<p><a href="https://github.com/A-K-M-Asifuzzaman/BEACON-AI">Code & design</a> · <a href="https://beacon-ai-drab.vercel.app">Live app</a></p>
+</td>
+</tr>
+</table>
+
+### The engineering showcase
+
+| Project | The engineering problem | Evidence / demonstrated result | Explore |
+|---|---|---|---|
+| **NWP-Core** | Build, train, quantize and serve an actual transformer—not an API wrapper. | **19.47M params**, ~262M training tokens; ONNX int8 + browser WebAssembly; **58.53%** reported quantized test top-5. | [Source](https://github.com/A-K-M-Asifuzzaman/Next-Word-Prediction-From-Scratch) · [Demo](https://nwp-core.vercel.app) |
+| **Recurra** | Prevent target leakage in clinical prediction; explain calibrated outcomes. | **0.892 test PR-AUC** on an at-diagnosis feature track; SHAP and constrained counterfactuals. **Research only; not clinically validated.** | [Source](https://github.com/A-K-M-Asifuzzaman/THYROID-ML-) · [Demo](https://recurra-a-k-m-asifuzzamans-projects.vercel.app) |
+| **OmniMind** | Make a multi-agent research system verify the evidence behind its own writing. | **13 agents**; claim-by-claim verification, contradiction checks and **119 passing tests** reported. | [Source](https://github.com/A-K-M-Asifuzzaman/CSE-466-Python-Project) |
+| **ShikkhaAI** | Teach with citations anchored to real textbooks in Bangla, English and Banglish. | **18 NCTB books / 4,551 pages** indexed; hybrid retrieval + RRF + reranking; multimodal inputs. | [Source](https://github.com/A-K-M-Asifuzzaman/ShikkhaAI) · [Demo](https://shikkha-ai-lime.vercel.app) |
+| **Nexora AI** | Preserve transactional integrity while adding tenant-isolated AI to ERP/POS. | Atomic checkout across sales, stock, payment, VAT, ledger and audit; FastAPI + Postgres + Next.js. | [Source](https://github.com/A-K-M-Asifuzzaman/Nexora-AI) |
+| **NeuraHub AI** | Compose an organizational AI workspace without collapsing tenant isolation. | **8 modules / 10 FastAPI microservices** reported; Postgres RLS + Qdrant + Neo4j. | [Source](https://github.com/A-K-M-Asifuzzaman/NeuralHub-AI) |
+| **RoadEye** | Avoid partial-label poisoning when training road-distress vision models. | Separate pothole and crack supervision; condition scoring and explainable repair support. | [Source](https://github.com/A-K-M-Asifuzzaman/Road) |
+| **ImageIQ** | Bring detection, semantic search and data annotation into a single operator workflow. | YOLOv8 + CLIP + FAISS; COCO/YOLO/VOC export and review queue. | [Source](https://github.com/A-K-M-Asifuzzaman/IMAGEIQ) · [Demo](https://imageiq.vercel.app) |
+| **RoboDesign Atlas** | Search domain-specific scientific figures with measurable embedding quality. | Domain-adaptive CLIP, FAISS retrieval and corpus composition audit. | [Source](https://github.com/A-K-M-Asifuzzaman/RobotDesign1M) · [Demo](https://asifzaman1912-robodesign-atlas.static.hf.space) |
+| **ChatgaiyyaLM** | Design language adaptation experiments for data-scarce Chittagonian. | **13,497-item / eight-task** benchmark; corpus deduplication and held-out checks. | [Source](https://github.com/A-K-M-Asifuzzaman/Chatgaiya-AI) |
+| **Kage** | Build a private cross-platform messenger with clear trust boundaries. | Flutter clients + NestJS realtime backend; privacy and connection-controlled messaging. | [Source](https://github.com/A-K-M-Asifuzzaman/Personal_Chatting_App) |
+| **Direct** | Move large files device-to-device without storing payloads on an upload server. | WebRTC data channels + WebSocket signaling, chunking and backpressure; **100 GB is a design target**, not a measured guarantee. | [Source](https://github.com/A-K-M-Asifuzzaman/File_Shareing) |
+| **DataSense AI v3** | Make the data science lifecycle auditable inside a web product. | Cleaning, profiling, AutoML, SHAP, forecasting, anomaly detection, reports and AI chat. | [Source](https://github.com/A-K-M-Asifuzzaman/DataSense-AI-V3) |
+| **Meridian** | Build an isolated multi-merchant commerce analytics platform. | React + Express + MongoDB; per-store products, orders, users and BDT support. | [Source](https://github.com/A-K-M-Asifuzzaman/Meridian) |
+| **DevMesh** | Turn developer profiles into a collaborative environment. | Team chat, matching, Kanban and recruiter discovery. | [Source](https://github.com/A-K-M-Asifuzzaman/DevMesh) |
+| **PriceRadar** | Track market pricing as an actual monitored data pipeline. | Playwright extraction, schedulers, historical records and multi-channel alerts. | [Source](https://github.com/A-K-M-Asifuzzaman/PriceRadar) |
 
-I am **A.K.M. Asifuzzaman**, Founder of **TrinolIT** and an **AI / Machine Learning Engineer** from Chattogram, Bangladesh.
+### Experiments and honest boundaries
 
-I work across the complete AI product lifecycle: **data and experimentation → model development → retrieval and agentic systems → backend architecture → evaluation → deployment → product engineering**.
-
-My strongest interests are:
-
-- **Production AI systems** — RAG, CRAG, GraphRAG, agents, verification, citations, evaluation
-- **Machine learning engineering** — model development, calibration, uncertainty, XAI, serving
-- **LLM & NLP engineering** — low-resource NLP, fine-tuning, retrieval, multilingual systems
-- **Computer vision** — classification, transfer learning, explainability, multimodal applications
-- **Backend & SaaS systems** — FastAPI, PostgreSQL, Redis, multi-tenancy, RBAC, APIs, security
-- **Applied research** — reproducible experiments, ablations, statistical evaluation, limitations
-
-I am completing a **BSc in Computer Science & Engineering at East Delta University** while building research projects, production AI systems, and TrinolIT products.
-
-```python
-asif = {
-    "role": "Founder, TrinolIT · AI / ML Engineer",
-    "location": "Chattogram, Bangladesh",
-    "education": "BSc in CSE — East Delta University",
-    "focus": [
-        "Production AI Systems",
-        "RAG & Agentic AI",
-        "Machine Learning Engineering",
-        "Backend & SaaS Architecture",
-        "Applied AI Research",
-    ],
-    "research": [
-        "Low-Resource NLP",
-        "Retrieval & Grounding",
-        "Explainable AI",
-        "Computer Vision",
-        "LLM Evaluation",
-    ],
-    "principle": "Build systems that can be measured, explained, and trusted."
-}
-```
-
----
-
-## Founder — TrinolIT
-
-<div align="center">
-
-<a href="https://www.trinolit.com/">
-  <img src="https://www.trinolit.com/email-logo.png" alt="TrinolIT logo" width="220" />
-</a>
-
-### [Visit TrinolIT →](https://www.trinolit.com/)
-
-**AI Engineering · Custom Software · SaaS · Business Systems · Intelligent Automation**
-
-</div>
-
-I founded **TrinolIT** to build serious software and AI systems rather than one-off demos. My role spans product direction, architecture, AI/ML engineering, backend systems, technical decision-making, deployment strategy, and engineering quality.
-
-Current TrinolIT engineering initiatives include:
-
-- **Nexora AI** — multi-tenant ERP/POS and intelligent business platform
-- **Trinol OS** — internal company operating system for projects, leads, clients, teams, finance, meetings, and documents
-- **Trinol Payment** — transaction-confirmation and reconciliation infrastructure with deterministic matching, signed webhooks, Android device integration, and developer APIs
-- **TrinolIT Web Platform** — immersive company website and technical showcase
-
-> Trinol OS and Trinol Payment are currently maintained as private/internal repositories.
-
----
-
-# Flagship Engineering Projects
-
-These are the projects that best represent my current engineering level.
-
-## 01 — NWP-Core
-### Transformer from Scratch · ONNX · WASM · ML Systems
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/Next-Word-Prediction-From-Scratch) · [Live App →](https://nwp-core.vercel.app)
-
-A next-word prediction system built around a **19.47M-parameter decoder-only transformer trained from scratch**, rather than an external LLM API.
-
-**Highlights**
-
-- Trained on approximately **262M tokens**
-- RMSNorm, RoPE, SwiGLU, grouped-query attention, tied embeddings
-- PyTorch training pipeline with resumable telemetry
-- ONNX export and dynamic int8 quantization
-- Model size reduced from **103.5 MB to 26.6 MB**
-- **58.53% test top-5 accuracy** after int8 quantization
-- Browser-side inference using ONNX Runtime Web + WebAssembly
-- Measured roughly **15–20 ms prediction latency**
-- Tokenizer parity testing between Python training and browser inference
-
-**What it demonstrates:** model architecture, training, benchmarking, quantization, deployment, ML systems engineering.
-
----
-
-## 02 — DocFlow AI
-### Production Document Intelligence · RAG · Provenance · Multi-Tenancy
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/DocFlow-AI)
-
-A production-oriented document intelligence platform designed around **traceable evidence rather than unverifiable LLM output**.
-
-**Highlights**
-
-- PDF/document ingestion and OCR
-- Evidence-linked extraction
-- RAG with citations and grounding checks
-- Multi-tenant architecture
-- Authorization and isolation testing
-- Production-oriented security boundaries
-- Backend + E2E test coverage
-- Structured provenance from document to page/span/evidence
-- Evaluation and failure analysis rather than demo-only output
-
-**What it demonstrates:** production AI, retrieval, backend design, AI reliability, testing, security.
-
----
-
-## 03 — FoodGenome AI
-### Food-101 · Ensemble Vision · Conformal Prediction · RAG · GraphRAG
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/Food) · [Live App →](https://food-red-omega.vercel.app/)
-
-An end-to-end food intelligence system combining computer vision, uncertainty estimation, nutrition provenance, explainability, and grounded question answering.
-
-**Measured results**
-
-- **97.16%** Food-101 test top-1 accuracy
-- **99.56%** conformal coverage
-- Average candidate set: **1.54**
-- **97.94%** accuracy on accepted predictions after abstention
-- **98.6%** RAG correctness on a 76-case gold set
-- 101-class nutrition knowledge base with USDA provenance
-
-**Engineering**
-
-- SigLIP-SO400M + EVA-02-L ensemble
-- Temperature calibration
-- Conformal candidate sets
-- Abstention for uncertain predictions
-- Grad-CAM explainability
-- Hybrid retrieval + RRF + reranking
-- CRAG-style evidence validation
-- GraphRAG knowledge explorer
-- Model benchmarking and McNemar significance testing
-
-**What it demonstrates:** CV, uncertainty, XAI, RAG, evaluation, product engineering.
-
----
-
-## 04 — Recurra
-### Leakage-Aware ML · XAI · Calibration · Medical ML Research
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/THYROID-ML-) · [Live App →](https://recurra-a-k-m-asifuzzamans-projects.vercel.app)
-
-A thyroid-cancer recurrence research system built around an important finding: a commonly used post-treatment feature can create **target leakage** and artificially inflate performance.
-
-**Highlights**
-
-- Explicit feature tracks: post-treatment, at-diagnosis, raw-clinical
-- Leakage-aware model registry that refuses unsafe feature tracks
-- Test PR-AUC up to **0.892** on the at-diagnosis track
-- SHAP explanations and constrained counterfactuals
-- Calibration and threshold selection
-- Explanation fidelity/stability measurement
-- Model-randomization sanity checks
-- **120 model configurations** benchmarked
-- **284 Python tests**
-- Explicit research/educational—not medical-device—boundary
-
-**What it demonstrates:** rigorous applied ML, XAI, evaluation discipline, responsible ML engineering.
-
----
-
-## 05 — Chatgaiya AI / ChatgaiyyaLM
-### Low-Resource Chittagonian NLP
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/Chatgaiya-AI)
-
-Research and engineering for **Chittagonian**, a low-resource language where data scarcity is itself a central research problem.
-
-**Research directions**
-
-- Corpus construction and quality control
-- Low-resource translation
-- Sentiment analysis
-- Question answering
-- Named-entity recognition
-- Summarization
-- ASR
-- Tokenizer fertility analysis
-- Context-sensitive rewrite-rule mining
-- Dialectness supervision and benchmark construction
-
-**What it demonstrates:** original dataset work, low-resource NLP, multilingual AI, research design.
-
----
-
-## 06 — Nexora AI
-### Multi-Tenant ERP/POS · Enterprise SaaS · AI Systems
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/Nexora-AI)
-
-An enterprise-oriented multi-tenant business platform designed to demonstrate serious backend and SaaS architecture in addition to AI.
-
-**Focus**
-
-- Multi-tenant architecture
-- ERP/POS workflows
-- PostgreSQL data model
-- FastAPI backend
-- transactional business operations
-- RBAC and tenant isolation
-- AI-assisted business workflows
-- production-oriented system design
-
-**What it demonstrates:** backend engineering, SaaS architecture, business-domain modelling, technical-founder capability.
-
----
-
-## 07 — BEACON AI
-### Evidence-Attributed Audio Intelligence
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/BEACON-AI) · [Live App →](https://beacon-ai-drab.vercel.app)
-
-A meeting, lecture, and call intelligence system built around **attributed recall**.
-
-Instead of presenting generated notes as unquestioned truth, Beacon links generated content back to the recording and classifies claims as supported, partial, or unsupported.
-
-**Highlights**
-
-- Transcription and speaker-aware sessions
-- Sentence-level evidence attribution
-- Timestamp-linked summaries
-- Evidence-linked action items
-- Grounded QA
-- Retrieval score visibility
-- Flashcards tied to source audio
-- SSE-based AI streaming
-- Live capture and session timeline
-
-**What it demonstrates:** multimodal AI, grounding, product UX, evidence-aware generation.
-
----
-
-## 08 — OmniMind
-### Multi-Agent Multimodal Research Scientist
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/CSE-466-Python-Project)
-
-A research platform in which specialized agents plan, retrieve, reason, verify, critique, and generate evidence-backed research outputs.
-
-**Highlights**
-
-- 13 specialized agents
-- typed blackboard coordination
-- hybrid retrieval
-- multimodal ingestion
-- knowledge graph construction
-- claim-by-claim evidence verification
-- contradiction detection
-- research-gap identification
-- experiment proposal generation
-- SSE agent telemetry
-- clean/hexagonal architecture
-- **119 passing tests**
-
-**What it demonstrates:** agentic AI, architecture, orchestration, evaluation and research tooling.
-
----
-
-## 09 — ShikkhaAI
-### Grounded AI Tutor for Bangladesh
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/ShikkhaAI) · [Live App →](https://shikkha-ai-lime.vercel.app)
-
-A grounded AI tutor for SSC-level Bangladesh education using official NCTB textbooks.
-
-**Highlights**
-
-- 18 NCTB books / 4,551 pages
-- Bangla, English and Banglish interaction
-- hybrid dense + BM25 retrieval
-- reciprocal-rank fusion
-- reranking
-- book/page citations
-- specialist agent routing
-- vision homework input
-- Whisper voice input
-- graph/diagram rendering
-- Firebase authentication and student history
-
-**What it demonstrates:** RAG, educational AI, multilingual systems, real product deployment.
-
----
-
-## 10 — NeuraHub AI
-### Multi-Tenant AI Workspace
-
-[Repository →](https://github.com/A-K-M-Asifuzzaman/NeuralHub-AI)
-
-A broad AI workspace combining codebase intelligence, data science, research assistance, education, agents, memory and collaboration.
-
-**Architecture**
-
-- Next.js application
-- Flutter multi-platform client
-- FastAPI microservices
-- PostgreSQL RLS
-- Qdrant
-- Neo4j
-- OpenTelemetry
-- Prometheus/Grafana
-- typed/tested Python services
-- provider-agnostic LLM gateway
-
-**What it demonstrates:** large-system architecture and integration across AI, backend, data and clients.
-
----
-
-# Research & Academic Work
-
-## Current Research
-
-### ChatgaiyyaLM — Low-Resource Chittagonian AI
-Building language resources and evaluation pipelines for translation, sentiment, QA, NER, summarization and speech tasks.
-
-### Hybrid RAG for Bangladesh Secondary Education
-Researching dense + sparse retrieval, reranking, grounded generation, faithfulness, abstention and retrieval evaluation for NCTB content.
-
-### Bengali Physics LLM Evaluation
-Evaluating multiple open LLM families on Bengali physics MCQs using zero/few-shot and reasoning-oriented prompting.
-
-### Reasoning-Oriented Retrieval
-Interested in temporal retrieval, conversational retrieval, evidence grounding, reranking, retrieval evaluation and SemEval-style benchmark systems.
-
----
-
-# AI / ML Engineering Stack
-
-### LLM · RAG · Agents
-
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-0D1117?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Neo4j-0D1117?style=flat-square&logo=neo4j&logoColor=4581C3)
-
-### Machine Learning · Deep Learning · XAI
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-0D1117?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-0D1117?style=flat-square)
-![ONNX](https://img.shields.io/badge/ONNX-0D1117?style=flat-square&logo=onnx&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-
-### Backend · Data · Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-
-### Frontend · Product Engineering
-
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-
----
-
-# Engineering Areas
-
-| Area | Current Work |
-|:---|:---|
-| **Production RAG** | Hybrid dense + sparse retrieval, RRF, reranking, CRAG, citations, abstention, evaluation |
-| **Agentic AI** | LangGraph workflows, routing, agent orchestration, verification, tool use |
-| **ML Engineering** | Training, evaluation, calibration, feature engineering, benchmarking, deployment |
-| **Explainability** | SHAP, LIME, Grad-CAM, Integrated Gradients, counterfactuals |
-| **Computer Vision** | Classification, transfer learning, ensembles, uncertainty and visual attribution |
-| **NLP** | Transformers, low-resource NLP, multilingual evaluation, QA, NER, sentiment |
-| **Backend Systems** | FastAPI, APIs, async services, SSE/WebSockets, authentication, RBAC |
-| **SaaS Architecture** | Multi-tenancy, organization isolation, PostgreSQL, business workflows |
-| **AI Reliability** | Grounding, provenance, hallucination detection, confidence, reproducibility |
-| **MLOps / Infra** | Docker, CI/CD, model serving, cloud deployment, monitoring |
-
----
-
-# Education
-
-### East Delta University
-**BSc in Computer Science & Engineering**
-
-- Focus: Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision, Software Engineering
-- Current academic/research work includes RAG, LLM evaluation, ML experimentation and intelligent systems
-- CGPA: **3.78**
-
----
-
-# Certifications
-
-| Certification | Issuer | Year | Credential |
-|:---|:---|:---:|:---:|
+<details>
+<summary><b>View research pilots, evolving systems and validation limitations</b></summary>
+
+| Project | What is implemented / explored | Boundary |
+|---|---|---|
+| [TopoDelta-QA](https://github.com/A-K-M-Asifuzzaman/Pattern-Recognition) | Synthetic topology-edit graph QA, audit and training-pilot tools | **No human validation** and no established efficacy claim; research still being prepared. |
+| [MicroFire Atlas](https://github.com/A-K-M-Asifuzzaman/MicroFire-Atlas) | Evidence-focused NASA microgravity flame observatory | Not a physical simulation, a probability engine or a material-safety rating. |
+| [MicroFire V2](https://github.com/A-K-M-Asifuzzaman/MicroFire-V2) | Science contracts and a living observatory / mission-game foundation | Repository explicitly states the full research engine and playable game are **not yet complete**. |
+| [Trinol Browser](https://github.com/A-K-M-Asifuzzaman/TRINOL-BROWSER) | Chromium build and native browser experiments | Native UI and repeatable single-instance lifecycle acceptance still **partial**. |
+
+</details>
+
+## 04 / Systems thinking
+
+![Data provenance, model training, retrieval, evaluation, serving, and monitoring feedback loop](./assets/ai-systems-loop.svg)
+
+| What I optimize for | How it appears in the projects |
+|---|---|
+| **Evidence & provenance** | Source spans, page numbers, timestamps, reproducible experimental splits. |
+| **Correctness under failure** | Refusals, abstention, uncertainty estimation, leakage audits, adversarial testing. |
+| **Production boundaries** | RBAC/RLS, tenant isolation, signed integration surfaces, typed APIs and safe defaults. |
+| **Measurement** | Held-out metrics, paired tests, telemetry, calibration, CI, regression suites and detailed limitations. |
+| **Product usefulness** | Real workflows, understandable interfaces, export paths and accessible interaction patterns. |
+
+### TrinolIT — company and systems engineering
+
+As the founder of **[TrinolIT](https://www.trinolit.com/)**, I work across product strategy, systems architecture, AI integration and backend engineering. Public work includes [Nexora AI](https://github.com/A-K-M-Asifuzzaman/Nexora-AI) and the [TrinolIT website](https://www.trinolit.com/). **Trinol OS** (internal operations) and **Trinol Payment** (payment reconciliation) are private initiatives; source code and internal links are intentionally not published on this profile.
+
+## 05 / Complete public project atlas
+
+**124 public repositories · 10 project families · one entry for every repository.** This includes flagship systems, experiments, course projects, older iterations and this profile repository. Open a section to browse its individual repos, or go to the [full-size project index](./docs/PROJECTS.md).
+
+<sub>Grouped by primary purpose; projects that cross disciplines appear in one category only to avoid duplicate counts. Descriptions based on repository docs or names are deliberately conservative where detailed evidence is unavailable.</sub>
+
+<details>
+<summary><b>01 · Vision-Language Research & Benchmarks &nbsp; (9 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**InsightVLM**](https://github.com/A-K-M-Asifuzzaman/InsightVLM) <sub>`InsightVLM`</sub> | Statistical insight classification from chart images; 20K-chart benchmark with test-verified labels. |
+| [**TopoDelta-QA**](https://github.com/A-K-M-Asifuzzaman/Pattern-Recognition) <sub>`Pattern-Recognition`</sub> | Topology-change graph QA dataset and evaluation tooling; research pilot, not a published benchmark. |
+| [**RoboDesign Atlas**](https://github.com/A-K-M-Asifuzzaman/RobotDesign1M) <sub>`RobotDesign1M`</sub> | Scientific-figure retrieval, domain-adaptive CLIP, corpus audit and browser demo. |
+| [**NWP-Core**](https://github.com/A-K-M-Asifuzzaman/Next-Word-Prediction-From-Scratch) <sub>`Next-Word-Prediction-From-Scratch`</sub> | 19.47M-parameter decoder-only transformer; ONNX/WASM browser inference. |
+| [**Machine Learning Reference**](https://github.com/A-K-M-Asifuzzaman/Machine-Learning) <sub>`Machine-Learning`</sub> | From-scratch ML implementations, derivations and reproducible notebooks. |
+| [**NN PS 1**](https://github.com/A-K-M-Asifuzzaman/NN-PS-1) <sub>`NN-PS-1`</sub> | Learning project / experiment; consult repository for scope. |
+| [**NN PS 2**](https://github.com/A-K-M-Asifuzzaman/NN-PS-2) <sub>`NN-PS-2`</sub> | Learning project / experiment; consult repository for scope. |
+| [**XAI**](https://github.com/A-K-M-Asifuzzaman/XAI) <sub>`XAI`</sub> | Learning project / experiment; consult repository for scope. |
+| [**KaggleSolve**](https://github.com/A-K-M-Asifuzzaman/KaggleSolve) <sub>`KaggleSolve`</sub> | Learning project / experiment; consult repository for scope. |
+
+</details>
+
+<details>
+<summary><b>02 · Agentic AI, RAG & Knowledge Systems &nbsp; (9 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**DocFlow AI**](https://github.com/A-K-M-Asifuzzaman/DocFlow-AI) <sub>`DocFlow-AI`</sub> | Document-to-action intelligence with source-span provenance and verified extraction. |
+| [**OmniMind**](https://github.com/A-K-M-Asifuzzaman/CSE-466-Python-Project) <sub>`CSE-466-Python-Project`</sub> | 13-agent multimodal research and evidence-verification platform. |
+| [**ShikkhaAI**](https://github.com/A-K-M-Asifuzzaman/ShikkhaAI) <sub>`ShikkhaAI`</sub> | SSC textbook-grounded multilingual agentic RAG tutor. |
+| [**AIZen Tutor**](https://github.com/A-K-M-Asifuzzaman/AIZen-Tutor) <sub>`AIZen-Tutor`</sub> | Gamified AI/ML learning platform with lessons and document RAG. |
+| [**NeuraHub AI**](https://github.com/A-K-M-Asifuzzaman/NeuralHub-AI) <sub>`NeuralHub-AI`</sub> | Multi-tenant AI workspace spanning codebase intelligence, RAG, agents and analytics. |
+| [**Advanced RAG**](https://github.com/A-K-M-Asifuzzaman/Advanced_Rag) <sub>`Advanced_Rag`</sub> | Retrieval-augmented generation practice and experiments. |
+| [**Jarvis**](https://github.com/A-K-M-Asifuzzaman/Jarvis) <sub>`Jarvis`</sub> | Learning project / experiment; consult repository for scope. |
+| [**chatbot2**](https://github.com/A-K-M-Asifuzzaman/chatbot2) <sub>`chatbot2`</sub> | Learning project / experiment; consult repository for scope. |
+| [**bot**](https://github.com/A-K-M-Asifuzzaman/bot) <sub>`bot`</sub> | Learning project / experiment; consult repository for scope. |
+
+</details>
+
+<details>
+<summary><b>03 · Computer Vision & Image Intelligence &nbsp; (4 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**FoodGenome AI**](https://github.com/A-K-M-Asifuzzaman/Food) <sub>`Food`</sub> | Food-101 classifier, calibrated predictions, conformal sets and nutrition RAG. |
+| [**RoadEye**](https://github.com/A-K-M-Asifuzzaman/Road) <sub>`Road`</sub> | Road distress detection/segmentation with condition scoring and repair support. |
+| [**ImageIQ**](https://github.com/A-K-M-Asifuzzaman/IMAGEIQ) <sub>`IMAGEIQ`</sub> | YOLO detection, CLIP search, auto-labeling and annotation export. |
+| [**Car Damage Detection**](https://github.com/A-K-M-Asifuzzaman/car-damage-detection) <sub>`car-damage-detection`</sub> | Computer-vision work on detecting vehicle damage. |
+
+</details>
+
+<details>
+<summary><b>04 · Language, Audio & NLP &nbsp; (6 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**ChatgaiyyaLM**](https://github.com/A-K-M-Asifuzzaman/Chatgaiya-AI) <sub>`Chatgaiya-AI`</sub> | Low-resource Chittagonian language resources, benchmarks and adaptation work. |
+| [**Beacon AI**](https://github.com/A-K-M-Asifuzzaman/BEACON-AI) <sub>`BEACON-AI`</sub> | Meeting/lecture intelligence with timestamped evidence attribution. |
+| [**Speech Recognition LSTM**](https://github.com/A-K-M-Asifuzzaman/Speech_Reco_LSTM) <sub>`Speech_Reco_LSTM`</sub> | Sequence-model speech recognition experiment. |
+| [**Kotodama**](https://github.com/A-K-M-Asifuzzaman/Emotion-Detection-Text-) <sub>`Emotion-Detection-Text-`</sub> | Emotion classification with transformers and a dynamic visual frontend. |
+| [**Spam Detection**](https://github.com/A-K-M-Asifuzzaman/Spam-Detection) <sub>`Spam-Detection`</sub> | Text spam classification backend/experiments. |
+| [**Spam Detection UI**](https://github.com/A-K-M-Asifuzzaman/Spam-Detection-Ui) <sub>`Spam-Detection-Ui`</sub> | Frontend for the spam classification experiment. |
+
+</details>
+
+<details>
+<summary><b>05 · Applied ML, AutoML & Predictive Analytics &nbsp; (14 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**Recurra**](https://github.com/A-K-M-Asifuzzaman/THYROID-ML-) <sub>`THYROID-ML-`</sub> | Leakage-aware thyroid recurrence ML and SHAP explanations; research only. |
+| [**DataSense AI v3**](https://github.com/A-K-M-Asifuzzaman/DataSense-AI-V3) <sub>`DataSense-AI-V3`</sub> | Full-stack data quality, EDA, AutoML, SHAP and reporting platform. |
+| [**Student Dropout & Success**](https://github.com/A-K-M-Asifuzzaman/Student-Dropout-and-Academic-Success-Prediction-Using-Data-Analysis-Machine-Learning) <sub>`Student-Dropout-and-Academic-Success-Prediction-Using-Data-Analysis-Machine-Learning`</sub> | UCI student-outcome modelling with a Streamlit analytics/prediction interface. |
+| [**Credit risk model**](https://github.com/A-K-M-Asifuzzaman/Credit_risk_model) <sub>`Credit_risk_model`</sub> | Credit-risk modelling and related iteration/notebook. |
+| [**Credit risk model 2**](https://github.com/A-K-M-Asifuzzaman/Credit_risk_model_2) <sub>`Credit_risk_model_2`</sub> | Credit-risk modelling and related iteration/notebook. |
+| [**Credit Risk Modelling with notebook**](https://github.com/A-K-M-Asifuzzaman/Credit_Risk_Modelling_with_notebook) <sub>`Credit_Risk_Modelling_with_notebook`</sub> | Credit-risk modelling and related iteration/notebook. |
+| [**Health Premium Insurance**](https://github.com/A-K-M-Asifuzzaman/Health_Premium_Insurance) <sub>`Health_Premium_Insurance`</sub> | Health-insurance premium prediction project or iteration. |
+| [**Health Insurance Premium 2.0**](https://github.com/A-K-M-Asifuzzaman/Health_Insurance_Premium_2.0) <sub>`Health_Insurance_Premium_2.0`</sub> | Health-insurance premium prediction project or iteration. |
+| [**Health Care Premium Prediction**](https://github.com/A-K-M-Asifuzzaman/Health-Care-Premium-Prediction) <sub>`Health-Care-Premium-Prediction`</sub> | Health-insurance premium prediction project or iteration. |
+| [**Student Hsc Result Prediction**](https://github.com/A-K-M-Asifuzzaman/Student-Hsc-Result-Prediction) <sub>`Student-Hsc-Result-Prediction`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Car Prediction notebook**](https://github.com/A-K-M-Asifuzzaman/Car_Prediction_notebook) <sub>`Car_Prediction_notebook`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Lead pred**](https://github.com/A-K-M-Asifuzzaman/Lead_pred) <sub>`Lead_pred`</sub> | Learning project / experiment; consult repository for scope. |
+| [**linear regression test**](https://github.com/A-K-M-Asifuzzaman/linear_regression_test) <sub>`linear_regression_test`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Water Potability Prediction**](https://github.com/A-K-M-Asifuzzaman/Is-the-Water-Drinkable-) <sub>`Is-the-Water-Drinkable-`</sub> | SVC-based potable/non-potable classification with a Gradio UI. |
+
+</details>
+
+<details>
+<summary><b>06 · Recommender Systems &nbsp; (5 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**Recommendation System**](https://github.com/A-K-M-Asifuzzaman/Recommendation_System) <sub>`Recommendation_System`</sub> | Recommendation-system implementation or experiment. |
+| [**CineMatch AI**](https://github.com/A-K-M-Asifuzzaman/Recommendation_System_ui) <sub>`Recommendation_System_ui`</sub> | React frontend for ML-based movie recommendations. |
+| [**RS**](https://github.com/A-K-M-Asifuzzaman/RS) <sub>`RS`</sub> | Recommendation-system implementation or experiment. |
+| [**Movie Recommendetion System Notebook**](https://github.com/A-K-M-Asifuzzaman/Movie_Recommendetion_System_Notebook) <sub>`Movie_Recommendetion_System_Notebook`</sub> | Recommendation-system notebook and experiments. |
+| [**Book Recommendetion System Notebook**](https://github.com/A-K-M-Asifuzzaman/Book_Recommendetion_System_Notebook) <sub>`Book_Recommendetion_System_Notebook`</sub> | Recommendation-system notebook and experiments. |
+
+</details>
+
+<details>
+<summary><b>07 · Enterprise SaaS, Platforms & Developer Tools &nbsp; (11 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**Nexora AI**](https://github.com/A-K-M-Asifuzzaman/Nexora-AI) <sub>`Nexora-AI`</sub> | Multi-tenant ERP/POS with accounting, AI copilot, forecasting and tenant-scoped RAG. |
+| [**Meridian**](https://github.com/A-K-M-Asifuzzaman/Meridian) <sub>`Meridian`</sub> | Ecommerce analytics and multi-tenant merchant operations platform. |
+| [**PriceRadar**](https://github.com/A-K-M-Asifuzzaman/PriceRadar) <sub>`PriceRadar`</sub> | Price monitoring, alerts, trend analysis and web scraping platform. |
+| [**DevMesh AI**](https://github.com/A-K-M-Asifuzzaman/DevMesh) <sub>`DevMesh`</sub> | Developer collaboration, teammate matching, teams and recruitment tools. |
+| [**Kage**](https://github.com/A-K-M-Asifuzzaman/Personal_Chatting_App) <sub>`Personal_Chatting_App`</sub> | Flutter/NestJS real-time cross-platform messaging platform. |
+| [**Trinol Browser**](https://github.com/A-K-M-Asifuzzaman/TRINOL-BROWSER) <sub>`TRINOL-BROWSER`</sub> | Chromium native browser fork; validated build, incomplete visual/lifecycle acceptance. |
+| [**Direct**](https://github.com/A-K-M-Asifuzzaman/File_Shareing) <sub>`File_Shareing`</sub> | WebRTC browser-to-browser file transfer with signaling and backpressure. |
+| [**Nexus**](https://github.com/A-K-M-Asifuzzaman/Nexus) <sub>`Nexus`</sub> | Learning project / experiment; consult repository for scope. |
+| [**PH University**](https://github.com/A-K-M-Asifuzzaman/PH-University) <sub>`PH-University`</sub> | University-oriented application exercise. |
+| [**EDU Project Showcase**](https://github.com/A-K-M-Asifuzzaman/EDU-ProjectShowcase) <sub>`EDU-ProjectShowcase`</sub> | University project showcase application. |
+| [**uni routine personal**](https://github.com/A-K-M-Asifuzzaman/uni-routine-personal) <sub>`uni-routine-personal`</sub> | Learning project / experiment; consult repository for scope. |
+
+</details>
+
+<details>
+<summary><b>08 · NASA Space Apps, IoT & Embedded Systems &nbsp; (11 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**MicroFire Atlas**](https://github.com/A-K-M-Asifuzzaman/MicroFire-Atlas) <sub>`MicroFire-Atlas`</sub> | NASA Space Apps 2026; microgravity flame data, source-grounded evidence exploration. |
+| [**MicroFire V2**](https://github.com/A-K-M-Asifuzzaman/MicroFire-V2) <sub>`MicroFire-V2`</sub> | Living Science Observatory foundation; mission-game/research engine still in development. |
+| [**CosmoMinds NASA Challenge**](https://github.com/A-K-M-Asifuzzaman/cosmo-mind-nasa-app-challenge) <sub>`cosmo-mind-nasa-app-challenge`</sub> | NASA challenge application and team work. |
+| [**TeamCosmoMinds**](https://github.com/A-K-M-Asifuzzaman/TeamCosmoMinds) <sub>`TeamCosmoMinds`</sub> | Learning project / experiment; consult repository for scope. |
+| [**cosmo update**](https://github.com/A-K-M-Asifuzzaman/cosmo-update) <sub>`cosmo-update`</sub> | Learning project / experiment; consult repository for scope. |
+| [**CosmoMinds Chatbot**](https://github.com/A-K-M-Asifuzzaman/cosmomind-chatboat) <sub>`cosmomind-chatboat`</sub> | Chatbot supporting the CosmoMinds project. |
+| [**iot**](https://github.com/A-K-M-Asifuzzaman/iot) <sub>`iot`</sub> | IoT or embedded systems project/iteration. |
+| [**iot v2**](https://github.com/A-K-M-Asifuzzaman/iot_v2) <sub>`iot_v2`</sub> | IoT or embedded systems project/iteration. |
+| [**IOT2022**](https://github.com/A-K-M-Asifuzzaman/IOT2022) <sub>`IOT2022`</sub> | IoT or embedded systems project/iteration. |
+| [**Health IoT**](https://github.com/A-K-M-Asifuzzaman/Health_IoT) <sub>`Health_IoT`</sub> | Connected health sensing prototype. |
+| [**STTP**](https://github.com/A-K-M-Asifuzzaman/STTP) <sub>`STTP`</sub> | Learning project / experiment; consult repository for scope. |
+
+</details>
+
+<details>
+<summary><b>09 · Full-Stack, EdTech & Client Work &nbsp; (19 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**BookBarn**](https://github.com/A-K-M-Asifuzzaman/BooKBarn) <sub>`BooKBarn`</sub> | Book commerce application (earlier iteration). |
+| [**BookBarn Server**](https://github.com/A-K-M-Asifuzzaman/BookBarn-Server) <sub>`BookBarn-Server`</sub> | BookBarn backend repository. |
+| [**BookBarn Client (final)**](https://github.com/A-K-M-Asifuzzaman/bookbarn-client-final) <sub>`bookbarn-client-final`</sub> | Later BookBarn frontend iteration. |
+| [**BookBarn Server (final)**](https://github.com/A-K-M-Asifuzzaman/bookbarn-final-server) <sub>`bookbarn-final-server`</sub> | Later BookBarn backend iteration. |
+| [**Pet Adoption Client**](https://github.com/A-K-M-Asifuzzaman/Pet-Adoption-client) <sub>`Pet-Adoption-client`</sub> | Pet adoption web client. |
+| [**Pet Adoption Server**](https://github.com/A-K-M-Asifuzzaman/pet-adoption-server) <sub>`pet-adoption-server`</sub> | Pet adoption backend. |
+| [**stayvista**](https://github.com/A-K-M-Asifuzzaman/stayvista) <sub>`stayvista`</sub> | Learning project / experiment; consult repository for scope. |
+| [**News portal**](https://github.com/A-K-M-Asifuzzaman/News-portal) <sub>`News-portal`</sub> | Learning project / experiment; consult repository for scope. |
+| [**hunting phone api**](https://github.com/A-K-M-Asifuzzaman/hunting-phone-api) <sub>`hunting-phone-api`</sub> | Learning project / experiment; consult repository for scope. |
+| [**jhakana shop**](https://github.com/A-K-M-Asifuzzaman/jhakana-shop) <sub>`jhakana-shop`</sub> | Learning project / experiment; consult repository for scope. |
+| [**g3 architects website p**](https://github.com/A-K-M-Asifuzzaman/g3-architects-website-p) <sub>`g3-architects-website-p`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Heaven Furniture Mart**](https://github.com/A-K-M-Asifuzzaman/Hackathon) <sub>`Hackathon`</sub> | Next.js furniture business landing page. |
+| [**web developer portfolio**](https://github.com/A-K-M-Asifuzzaman/web-developer-portfolio) <sub>`web-developer-portfolio`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Asif Zaman**](https://github.com/A-K-M-Asifuzzaman/Asif-Zaman) <sub>`Asif-Zaman`</sub> | Learning project / experiment; consult repository for scope. |
+| [**my simple website**](https://github.com/A-K-M-Asifuzzaman/my-simple-website) <sub>`my-simple-website`</sub> | Learning project / experiment; consult repository for scope. |
+| [**simple landing design**](https://github.com/A-K-M-Asifuzzaman/simple-landing-design) <sub>`simple-landing-design`</sub> | Learning project / experiment; consult repository for scope. |
+| [**AI English Learning**](https://github.com/A-K-M-Asifuzzaman/Language_Learning) <sub>`Language_Learning`</sub> | AI vocabulary, grammar, speaking and writing practice platform. |
+| [**quiz hero**](https://github.com/A-K-M-Asifuzzaman/quiz-hero) <sub>`quiz-hero`</sub> | Learning project / experiment; consult repository for scope. |
+| [**geometry genius**](https://github.com/A-K-M-Asifuzzaman/geometry-genius) <sub>`geometry-genius`</sub> | Learning project / experiment; consult repository for scope. |
+
+</details>
+
+<details>
+<summary><b>10 · Early Web Development, Programming & Coursework &nbsp; (36 repos)</b></summary>
+
+| Repository | What it covers |
+|---|---|
+| [**GitHub Profile Source**](https://github.com/A-K-M-Asifuzzaman/A-K-M-Asifuzzaman) <sub>`A-K-M-Asifuzzaman`</sub> | This profile README and GitHub profile assets. |
+| [**Alpha Clash pro**](https://github.com/A-K-M-Asifuzzaman/Alpha-Clash-pro) <sub>`Alpha-Clash-pro`</sub> | Learning project / experiment; consult repository for scope. |
+| [**anomus**](https://github.com/A-K-M-Asifuzzaman/anomus) <sub>`anomus`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Assignment 10 clinet**](https://github.com/A-K-M-Asifuzzaman/Assignment-10-clinet) <sub>`Assignment-10-clinet`</sub> | Course assignment: client/server component. |
+| [**Assignment 10 server**](https://github.com/A-K-M-Asifuzzaman/Assignment-10-server) <sub>`Assignment-10-server`</sub> | Course assignment: client/server component. |
+| [**Assignment 11 clinet**](https://github.com/A-K-M-Asifuzzaman/Assignment-11-clinet) <sub>`Assignment-11-clinet`</sub> | Course assignment: client/server component. |
+| [**Assignment 11 server**](https://github.com/A-K-M-Asifuzzaman/Assignment-11-server) <sub>`Assignment-11-server`</sub> | Course assignment: client/server component. |
+| [**Assignment 12 client**](https://github.com/A-K-M-Asifuzzaman/Assignment-12-client) <sub>`Assignment-12-client`</sub> | Course assignment: client/server component. |
+| [**Assignment 12 server**](https://github.com/A-K-M-Asifuzzaman/Assignment-12-server) <sub>`Assignment-12-server`</sub> | Course assignment: client/server component. |
+| [**Assignment 2**](https://github.com/A-K-M-Asifuzzaman/Assignment-2) <sub>`Assignment-2`</sub> | Full-stack / frontend course assignment. |
+| [**Assignment 3**](https://github.com/A-K-M-Asifuzzaman/Assignment-3) <sub>`Assignment-3`</sub> | Full-stack / frontend course assignment. |
+| [**Assignment 5**](https://github.com/A-K-M-Asifuzzaman/Assignment-5) <sub>`Assignment-5`</sub> | Full-stack / frontend course assignment. |
+| [**Assignment 6**](https://github.com/A-K-M-Asifuzzaman/Assignment-6) <sub>`Assignment-6`</sub> | Full-stack / frontend course assignment. |
+| [**Assignment 7**](https://github.com/A-K-M-Asifuzzaman/Assignment-7) <sub>`Assignment-7`</sub> | Full-stack / frontend course assignment. |
+| [**assignment 9**](https://github.com/A-K-M-Asifuzzaman/assignment-9) <sub>`assignment-9`</sub> | Full-stack / frontend course assignment. |
+| [**Assingment 1**](https://github.com/A-K-M-Asifuzzaman/Assingment-1) <sub>`Assingment-1`</sub> | Full-stack / frontend course assignment. |
+| [**My Assignment 8**](https://github.com/A-K-M-Asifuzzaman/My-Assignment-8) <sub>`My-Assignment-8`</sub> | Full-stack / frontend course assignment. |
+| [**First Project**](https://github.com/A-K-M-Asifuzzaman/First-Project) <sub>`First-Project`</sub> | Learning project / experiment; consult repository for scope. |
+| [**ft p**](https://github.com/A-K-M-Asifuzzaman/ft-p) <sub>`ft-p`</sub> | Learning project / experiment; consult repository for scope. |
+| [**git ex**](https://github.com/A-K-M-Asifuzzaman/git-ex) <sub>`git-ex`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Level 2 Assignment 2**](https://github.com/A-K-M-Asifuzzaman/Level-2-Assignment-2) <sub>`Level-2-Assignment-2`</sub> | Full-stack / frontend course assignment. |
+| [**more js concepts**](https://github.com/A-K-M-Asifuzzaman/more-js-concepts) <sub>`more-js-concepts`</sub> | Learning project / experiment; consult repository for scope. |
+| [**special dom**](https://github.com/A-K-M-Asifuzzaman/special-dom) <sub>`special-dom`</sub> | Learning project / experiment; consult repository for scope. |
+| [**my file**](https://github.com/A-K-M-Asifuzzaman/my-file) <sub>`my-file`</sub> | Learning project / experiment; consult repository for scope. |
+| [**my first github repo**](https://github.com/A-K-M-Asifuzzaman/my-first-github-repo) <sub>`my-first-github-repo`</sub> | Learning project / experiment; consult repository for scope. |
+| [**problem will never last**](https://github.com/A-K-M-Asifuzzaman/problem-will-never-last) <sub>`problem-will-never-last`</sub> | Learning project / experiment; consult repository for scope. |
+| [**practice for assignment**](https://github.com/A-K-M-Asifuzzaman/practice-for-assignment) <sub>`practice-for-assignment`</sub> | Learning project / experiment; consult repository for scope. |
+| [**dummy repo**](https://github.com/A-K-M-Asifuzzaman/dummy-repo) <sub>`dummy-repo`</sub> | Learning project / experiment; consult repository for scope. |
+| [**rahul jha98**](https://github.com/A-K-M-Asifuzzaman/rahul-jha98) <sub>`rahul-jha98`</sub> | Learning project / experiment; consult repository for scope. |
+| [**cheesits456**](https://github.com/A-K-M-Asifuzzaman/cheesits456) <sub>`cheesits456`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Templates**](https://github.com/A-K-M-Asifuzzaman/Templates) <sub>`Templates`</sub> | Learning project / experiment; consult repository for scope. |
+| [**The Perfect Guess**](https://github.com/A-K-M-Asifuzzaman/The_Perfect_Guess) <sub>`The_Perfect_Guess`</sub> | Learning project / experiment; consult repository for scope. |
+| [**Snake Water Gun Game**](https://github.com/A-K-M-Asifuzzaman/Snake_Water_Gun_Game) <sub>`Snake_Water_Gun_Game`</sub> | Learning project / experiment; consult repository for scope. |
+| [**XPSC**](https://github.com/A-K-M-Asifuzzaman/XPSC) <sub>`XPSC`</sub> | Learning project / experiment; consult repository for scope. |
+| [**html css session**](https://github.com/A-K-M-Asifuzzaman/html-css-session) <sub>`html-css-session`</sub> | Learning project / experiment; consult repository for scope. |
+| [**HTML5 INTRO**](https://github.com/A-K-M-Asifuzzaman/HTML5-INTRO) <sub>`HTML5-INTRO`</sub> | Learning project / experiment; consult repository for scope. |
+
+</details>
+
+## 06 / Technical arsenal
+
+| Layer | Primary tools and approaches |
+|---|---|
+| **Model training** | Python · PyTorch · TensorFlow / Keras · scikit-learn · XGBoost · LightGBM · Optuna · ONNX |
+| **Vision & multimodal** | ViT · CLIP / SigLIP · OpenCV · YOLO · Grad-CAM · visual reasoning |
+| **Retrieval & agents** | LangChain · LangGraph · FAISS · Qdrant · Neo4j · hybrid search · RRF · rerankers · agent evaluation |
+| **Research rigor** | Reproducible splits · leakage auditing · confidence calibration · conformal prediction · ablations · SHAP · significance testing |
+| **Backend & data** | FastAPI · Python · Node.js · NestJS · PostgreSQL / RLS · MongoDB · Redis · Celery · REST / SSE / WebSockets |
+| **Product engineering** | TypeScript · React · Next.js · Flutter · Tailwind CSS · Firebase · UX engineering |
+| **Shipping & reliability** | Docker · GitHub Actions · Linux · CI / tests · telemetry · authentication / RBAC · observability |
+
+<details>
+<summary><b>Optional: GitHub activity visualizations</b></summary>
+
+<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="GitHub language distribution"/></p>
+
+<sub>Third-party stat-card services may occasionally be rate limited. My repositories and their reproducible artifacts remain the authoritative record of work.</sub>
+
+</details>
+
+## 07 / Education and credentials
+
+**East Delta University** · BSc in Computer Science & Engineering *(in progress)* · Chattogram, Bangladesh  
+**CGPA:** 3.79/4.00 (last reported September 2026) · **IEEE Student Member**
+
+**Selected training**: Advanced RAG (ongoing), Deep Learning for Computer Vision (ongoing), Explainable AI, Docker for ML, FastAPI for ML, deep learning, supervised machine learning and full-stack web development.
+
+<details>
+<summary><b>View course credential links</b></summary>
+
+| Certification | Provider | Year | Credential |
+|---|---|---:|---|
 | **Docker for Machine Learning** | CampusX | 2026 | [View](https://i.ibb.co.com/60m73yNd/1786194080075-certificate.jpg) |
 | **FastAPI for Machine Learning** | CampusX | 2026 | [View](https://i.ibb.co.com/wZSd1SDF/1782035825341-certificate.jpg) |
 | Explainable AI (XAI) | CampusX | 2026 | [View](https://i.ibb.co.com/7t1QMwSd/1779017167687-certificate.jpg) |
@@ -468,104 +409,20 @@ Interested in temporal retrieval, conversational retrieval, evidence grounding, 
 | Python for Data Science, AI & Development | IBM | 2025 | [View](https://www.coursera.org/account/accomplishments/verify/L668YC8B8JK3) |
 | Complete Web Development | Programming Hero | 2024 | [View](https://i.ibb.co.com/4R7kz8Jx/certificate-student.png) |
 
-### Currently Learning
+</details>
 
-- **Advanced RAG — CampusX** *(ongoing)*
-- **Deep Learning for Computer Vision — CampusX** *(ongoing)*
+## 08 / Work with me
 
-I also continuously study advanced retrieval, context engineering, agentic systems, multimodal AI, production ML, and system design.
-
----
-
-# Professional Affiliation
-
-**IEEE Student Member**
-
-Interested in research collaboration, shared tasks, applied AI research, and research-oriented engineering.
-
----
-
-# GitHub Activity
+I am interested in collaborations where **experimental honesty**, **deep engineering** and **real impact** all matter—especially multimodal and vision-language research, trustworthy AI, AI/ML engineering and applied-AI systems.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-K-M-Asifuzzaman&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+[![Email](https://img.shields.io/badge/START_A_CONVERSATION-asif%40asifzaman.dev-0f6570?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asif@asifzaman.dev)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-K-M-Asifuzzaman&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&langs_count=8" />
+[Portfolio](https://asifzaman.dev) · [LinkedIn](https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/) · [TrinolIT](https://www.trinolit.com/) · [All repositories](https://github.com/A-K-M-Asifuzzaman?tab=repositories)
 
-<br/>
+**BUILD → MEASURE → VERIFY → SHIP**
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=A-K-M-Asifuzzaman&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-K-M-Asifuzzaman&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" />
-
-</div>
-
----
-
-# What I Care About
-
-I am most interested in engineering work where AI is treated as a **system**, not simply an API call.
-
-That means asking:
-
-- Is the output grounded?
-- Can a claim be traced back to evidence?
-- Is the evaluation contaminated by leakage?
-- What happens when the model is uncertain?
-- Can the system refuse safely?
-- Does the tenant boundary hold under attack?
-- Are model and retrieval quality actually measured?
-- Can another engineer reproduce the result?
-- Is the product useful outside a notebook?
-
-Those questions shape the systems I build.
-
----
-
-# Current Direction
-
-I am building toward a career that combines:
-
-**AI / ML Engineering + Research + Technical Entrepreneurship**
-
-My long-term areas of interest include:
-
-- Production AI and LLM systems
-- Retrieval and agentic architectures
-- AI evaluation and reliability
-- Multimodal intelligence
-- Low-resource language technology
-- Enterprise AI systems
-- AI infrastructure and MLOps
-- Graduate research and long-term PhD work
-- Building TrinolIT into a serious AI and software engineering company
-
----
-
-# Contact
-
-<div align="center">
-
-<a href="https://www.trinolit.com/">
-  <img src="https://www.trinolit.com/email-logo.png" alt="TrinolIT" width="150" />
-</a>
-
-<br/><br/>
-
-### Engineering, research, collaboration, or building something ambitious?
-
-[**TrinolIT**](https://www.trinolit.com/) ·
-[**Portfolio**](https://www.asifzaman.online/) ·
-[**LinkedIn**](https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/) ·
-[**GitHub**](https://github.com/A-K-M-Asifuzzaman) ·
-[**Email**](mailto:zasif855@gmail.com)
-
-<br/>
-
-**A.K.M. Asifuzzaman**  
-Founder, TrinolIT · AI / Machine Learning Engineer
+<sub>Designed as a project-first research and engineering portfolio. No artificial ranking, manufactured endorsements or unsupported publication claims.</sub>
 
 </div>

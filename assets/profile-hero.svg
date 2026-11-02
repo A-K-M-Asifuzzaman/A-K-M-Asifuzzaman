@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="470" viewBox="0 0 1600 470" role="img" aria-labelledby="title desc">
+<title id="title">Asif Zaman — AI systems, research and product engineering</title>
+<desc id="desc">A dark editorial engineering banner featuring a computational network, analytical waveforms and the name A.K.M. Asifuzzaman.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101c"/><stop offset=".55" stop-color="#0a1d30"/><stop offset="1" stop-color="#07101c"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#70e0df"/><stop offset=".6" stop-color="#81a6ff"/><stop offset="1" stop-color="#efc583"/></linearGradient>
+  <linearGradient id="pill" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#102b39"/><stop offset="1" stop-color="#172a42"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#28c2d5" stop-opacity=".28"/><stop offset="1" stop-color="#07101c" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#547187" stroke-opacity=".12" stroke-width="1"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1600" height="470" rx="20" fill="url(#bg)"/><rect width="1600" height="470" rx="20" fill="url(#grid)"/>
+<circle cx="1290" cy="225" r="280" fill="url(#glow)"/>
+<path d="M64 62 H1536" stroke="#567186" opacity=".28"/><path d="M64 403 H1536" stroke="#567186" opacity=".28"/>
+<circle cx="84" cy="62" r="4" fill="#6be4e0"/><circle cx="99" cy="62" r="4" fill="#f4c476"/><circle cx="114" cy="62" r="4" fill="#759aff"/>
+<text x="142" y="67" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#90b0be" letter-spacing="2.5">ENGINEERING / RESEARCH / SYSTEMS</text>
+<text x="64" y="158" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="700" fill="#75dfdc" letter-spacing="5">A.K.M.</text>
+<text x="59" y="246" font-family="DejaVu Sans, Arial, sans-serif" font-size="76" font-weight="800" fill="#f6fbff" letter-spacing="-3">ASIFUZZAMAN</text>
+<path d="M64 271H870" stroke="url(#line)" stroke-width="3"/>
+<text x="66" y="321" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" fill="#d6e9f0" letter-spacing="1.4">AI/ML ENGINEER  •  FULL-STACK BUILDER  •  AI RESEARCHER</text>
+<rect x="64" y="352" width="604" height="37" rx="18.5" fill="url(#pill)" stroke="#38687a" stroke-width="1"/>
+<text x="89" y="376" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#b8d6df" letter-spacing="1.2">FOUNDER — TRINOLIT     /     CHATTOGRAM, BANGLADESH</text>
+<circle cx="1286" cy="225" r="159" fill="none" stroke="#73d9da" stroke-opacity=".28" stroke-width="1.5"/>
+<circle cx="1286" cy="225" r="115" fill="none" stroke="#87b2f0" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 9"/>
+<circle cx="1286" cy="225" r="64" fill="none" stroke="#b5a7e6" stroke-opacity=".5" stroke-width="1.5"/>
+<path d="M1113 318L1182 173L1286 225L1392 122L1491 262M1182 173L1240 91L1392 122L1421 310L1286 225L1196 343L1113 318M1240 91L1286 225L1352 346L1421 310" fill="none" stroke="#8dc9d8" stroke-opacity=".46" stroke-width="2"/>
+<path d="M1082 225C1130 188 1147 266 1196 225S1260 181 1286 225S1366 282 1398 225S1467 179 1518 225" fill="none" stroke="url(#line)" stroke-width="4"/>
+<g fill="#07101c" stroke="#71e0db" stroke-width="3"><circle cx="1182" cy="173" r="9"/><circle cx="1286" cy="225" r="12"/><circle cx="1392" cy="122" r="10"/><circle cx="1421" cy="310" r="8"/><circle cx="1196" cy="343" r="8"/><circle cx="1240" cy="91" r="7"/><circle cx="1352" cy="346" r="7"/></g>
+<g fill="#f4c476"><circle cx="1113" cy="318" r="5"/><circle cx="1491" cy="262" r="5"/><circle cx="1286" cy="225" r="4"/></g>
+<g font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#8fc1ca" letter-spacing="2"><text x="1068" y="101">INPUT</text><text x="1461" y="106">VERIFY</text><text x="1409" y="373">OUTPUT</text><text x="1073" y="384">REPRODUCE</text></g>
+<text x="68" y="436" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#7c9aaa" letter-spacing="1.6">BUILD.  MEASURE.  VERIFY.  SHIP.</text>
+<text x="1535" y="436" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#7c9aaa" text-anchor="end" letter-spacing="1.4">ASIFZAMAN.DEV  /  2026</text>
+</svg>

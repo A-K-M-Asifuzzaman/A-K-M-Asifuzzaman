@@ -19,7 +19,7 @@
 <a href="https://www.trinolit.com/">
   <img src="https://img.shields.io/badge/TrinolIT-Founder-0D1117?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://www.asifzaman.online/">
+<a href="https://www.asifzaman.dev/">
   <img src="https://img.shields.io/badge/Portfolio-asifzaman.online-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/">

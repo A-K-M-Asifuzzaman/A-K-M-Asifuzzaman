@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/TrinolIT-Founder-0D1117?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://www.asifzaman.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-asifzaman.online-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-asifzaman.dev-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/a-k-m-asifuzzaman-6027442a7/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
